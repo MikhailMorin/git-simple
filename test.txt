@@ -3,3 +3,4 @@ New Line.
 add 123 CHANGES BEFORE REBASE
 123 123
 COMMIT 1 merge master
+COMMIT 3 merge master
