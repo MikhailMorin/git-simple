@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 hello dev
 dev change
-=======
 hello dev masterChange
->>>>>>> devFile master changed
