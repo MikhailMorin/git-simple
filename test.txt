@@ -1,4 +1,4 @@
 Helolo, GIT! 123
 New Line.
 add 123 CHANGES BEFORE REBASE
-123
+123 123
