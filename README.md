@@ -1,1 +1,2 @@
 # git-simple
+MAN
